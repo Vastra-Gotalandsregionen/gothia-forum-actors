@@ -19,7 +19,7 @@
 
   <p>
     <tt>
-      gothia-forum-actors
+      oppna-program-icc
     </tt>
      ?r en del i V?stra G?talandsregionens satsning p? ?ppen k?llkod inom ramen f?r 
     <a href="https://github.com/Vastra-Gotalandsregionen//oppna-program">
